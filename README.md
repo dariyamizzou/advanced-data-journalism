@@ -14,7 +14,7 @@ Think of it as CAR 2.0.
 
 ## Software requirements
 
-We'll spend the first weeks of class getting your computers set up and familiarizing you with the tools we'll be using in this class. You can find an installation guide for those [./class-software.md](here).
+We'll spend the first weeks of class getting your computers set up and familiarizing you with the tools we'll be using in this class. You can find an installation guide for those [here](./class-software.md).
 
 ## Contact information
 
